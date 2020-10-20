@@ -10,4 +10,5 @@
 # switching branches 
 1. git branch == 查看当前分支
 2. git branch [name] == 创建新分支并命名
-3. git checkout [name] == 进入某分支
+3. git checkout [name] == 切换某分支
+4. git pull == 拉取远程仓库的最新更改，使本地仓库与远程仓库同步
